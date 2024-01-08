@@ -17,3 +17,6 @@ This repository is created for practicing the fundamentals of Java program.
 => Also there is another file name "EvenOddCheck.java" where user can check that the inputed number is even or odd.<br>
 => Another file name "CompairNumbers.java" where user can compair between two numbers.<br>
 => one more file name "SwithcStatements.java" where there are some options by which we can switch different conditions.</p>
+
+### Loops in java
+<p>=> This folder contains the basics of for loop, while loop and do whilw loop.</p>
