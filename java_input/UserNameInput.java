@@ -4,6 +4,8 @@ class UserNameInput  {
         Scanner sc= new Scanner(System.in);  
         System.out.print("Enter Your Name: ");  
         String str= sc.nextLine();       
-        System.out.print("Your Name is: "+str);             
+        System.out.print("Your Name is: "+str);     
+        
+        sc.close();
     }  
 }  

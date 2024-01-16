@@ -7,6 +7,8 @@ class UserValueInput  {
         System.out.print("Enter Second Number: ");
         int b = sc.nextInt();
         int sum = a + b;
-        System.out.println("The sum of a and b is: " + sum);           
+        System.out.println("The sum of a and b is: " + sum);       
+        
+        sc.close();
     }  
 }  
