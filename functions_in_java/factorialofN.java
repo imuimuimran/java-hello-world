@@ -15,5 +15,7 @@ public class factorialofN {
         int n = scanner.nextInt(); 
 
         printFactorial(n);
+
+        scanner.close();
     }  
 }  

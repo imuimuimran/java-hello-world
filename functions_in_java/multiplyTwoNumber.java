@@ -11,5 +11,7 @@ public class multiplyTwoNumber {
         int b = scanner.nextInt(); 
 
         System.out.println("The product of two number is: " + productCalculet(a, b));
+
+        scanner.close();
     }  
 }  

@@ -10,5 +10,7 @@ public class basicFunction {
         String name = scanner.next();  
 
         printMyName(name);
+
+        scanner.close();
     }  
 }  

@@ -14,5 +14,7 @@ public class sumofTwoNumbers {
         int sum = calculetSum(a, b);
 
         System.out.println("The sum of two number is: " + sum);
+
+        scanner.close();
     }  
 }  

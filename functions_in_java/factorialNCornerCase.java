@@ -21,5 +21,7 @@ public class factorialNCornerCase {
         int n = scanner.nextInt(); 
 
         printFactorial(n);
+
+        scanner.close();
     }  
 }  
