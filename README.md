@@ -8,6 +8,16 @@ This repository is created for practicing the fundamentals of Java program.
 ### Add Two Numbers
 <p>=> This file contains the file "add_two_numbers.java" where we can add two different numbers in JAva</p>
 
+### Array in Java
+<p>=> This file contains the basics of array in java like: 
+    <ul>
+        <li>Basic array Syntax</li>
+        <li>Basic array with Loop</li>
+        <li>Array Index Search with Linear Algorithm</li>
+        <li>User Input array</li>
+    </ul>
+</p>
+
 ### Conditional Statements
 <p>=> This file contains: "ConditionalifElse.java" where user can check his/her adultness by inputing age.<br>
 => Also there is another file name "EvenOddCheck.java" where user can check that the inputed number is even or odd.<br>
