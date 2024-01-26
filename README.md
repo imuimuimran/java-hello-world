@@ -51,6 +51,8 @@ This repository is created for practicing the fundamentals of Java program.
     <ul>
         <li>how to write basic java string</li>
         <li>charAt function in string with utilize length.</li>
+        <li>how to compare strings</li>
+        <li>how to cumulative the length of strings of array</li>
         <li>length function in string</li>
         <li>parseInt Method in string in java</li>
         <li>how to replace letter in string in java</li>
@@ -66,6 +68,7 @@ This repository is created for practicing the fundamentals of Java program.
         <li>how to append character in string builder</li>
         <li>basic syntax of string builder</li>
         <li>charAt method in string builder</li>
+        <li>how to cumulative the length of strings of array in String Builder</li>
         <li>how to delete character in string builder</li>
         <li>how to insert string in string builder</li>
         <li>how to setCharAt in string builder</li>
