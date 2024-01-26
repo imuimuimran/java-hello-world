@@ -14,5 +14,6 @@ class SwitchStatements {
             default: System.out.println("Invalid option!");
         }
         
+        sc.close();
     }  
 }  

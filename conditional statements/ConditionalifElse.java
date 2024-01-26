@@ -9,5 +9,7 @@ class ConditionalifElse  {
         } else {
             System.out.println("You are not adult.");
         }          
+
+        sc.close();
     }  
 }  
