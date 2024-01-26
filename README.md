@@ -11,9 +11,15 @@ This repository is created for practicing the fundamentals of Java program.
 ### Array in Java
 <p>=> This file contains the basics of array in java like: 
     <ul>
+        <li>Array Min and Max Value</li>
         <li>Basic array Syntax</li>
         <li>Basic array with Loop</li>
+        <li>Check an Array Ascending or not</li>
+        <li>Input and Output Name Array</li>
         <li>Array Index Search with Linear Algorithm</li>
+        <li>Basic Syntax of 2D Array</li>
+        <li>Search index with 2D Array</li>
+        <li>Spiral Order Matrix with 2D Array</li>
         <li>User Input array</li>
     </ul>
 </p>
@@ -39,3 +45,29 @@ This repository is created for practicing the fundamentals of Java program.
 
 ### Loops in java
 <p>=> This file contains the basics of for loop, while loop and do whilw loop.</p>
+
+### String in java
+<p>=> This file contains basics and fundamentals of string in java like:</p>
+    <ul>
+        <li>how to write basic java string</li>
+        <li>charAt function in string with utilize length.</li>
+        <li>length function in string</li>
+        <li>parseInt Method in string in java</li>
+        <li>how to replace letter in string in java</li>
+        <li>string concatenation in java</li>
+        <li>how to extract substring in string</li>
+        <li>toString method by which number changes into string</li>
+        <li>how user can input string in java</li>
+    </ul>
+
+### String Builder in java
+<p>=> This file contains pros and cons of string Builder in java like:</p>
+    <ul>
+        <li>how to append character in string builder</li>
+        <li>basic syntax of string builder</li>
+        <li>charAt method in string builder</li>
+        <li>how to delete character in string builder</li>
+        <li>how to insert string in string builder</li>
+        <li>how to setCharAt in string builder</li>
+        <li>how to reverse a word in string builder</li>
+    </ul>
