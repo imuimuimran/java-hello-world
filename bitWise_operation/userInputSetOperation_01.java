@@ -1,5 +1,6 @@
 import java.util.*;
 
+// Impotant: This is an example of get bit operation not set bit
 public class userInputSetOperation_01{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
