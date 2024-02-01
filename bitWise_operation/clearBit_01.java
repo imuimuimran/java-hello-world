@@ -14,7 +14,7 @@ public class clearBit_01{
         int notBitMask = ~(bitMask); // By this method binary 1 will be 0, binary 0 will be 1. so, 0100 will be: 1011.
 
         int newNumber = notBitMask & num; // Now (1011 & 0101) will be: 0001, which is the decimal value of 1.
-
+ 
         System.out.println("The munber " + num + " is converted as " + newNumber + " after clear bit manipulation");
     }
 
